@@ -2,9 +2,9 @@
   font-family: "iconfont"; /* Project id 1681489 */
   /* Color fonts */
   src: 
-       url('iconfont.woff2?t=1661401229569') format('woff2'),
-       url('iconfont.woff?t=1661401229569') format('woff'),
-       url('iconfont.ttf?t=1661401229569') format('truetype');
+       url('iconfont.woff2?t=1661498723397') format('woff2'),
+       url('iconfont.woff?t=1661498723397') format('woff'),
+       url('iconfont.ttf?t=1661498723397') format('truetype');
 }
 
 .iconfont {
@@ -15,16 +15,104 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-dengji:before {
+  content: "\e6e0";
+}
+
+.icon-jinbi:before {
+  content: "\e617";
+}
+
+.icon-nongtian:before {
+  content: "\ec52";
+}
+
+.icon-huacai:before {
+  content: "\e668";
+}
+
+.icon-bailuobo:before {
+  content: "\e669";
+}
+
+.icon-nangua:before {
+  content: "\e66b";
+}
+
+.icon-yangcong:before {
+  content: "\e66c";
+}
+
+.icon-dasuan:before {
+  content: "\e66d";
+}
+
+.icon-qincai:before {
+  content: "\e66e";
+}
+
+.icon-wandou:before {
+  content: "\e66f";
+}
+
+.icon-dacong:before {
+  content: "\e670";
+}
+
+.icon-sigua:before {
+  content: "\e671";
+}
+
+.icon-qiezi:before {
+  content: "\e672";
+}
+
+.icon-tudou:before {
+  content: "\e673";
+}
+
+.icon-fanqie:before {
+  content: "\e674";
+}
+
+.icon-zhusun:before {
+  content: "\e675";
+}
+
+.icon-shengjiang:before {
+  content: "\e676";
+}
+
+.icon-baicai:before {
+  content: "\e677";
+}
+
+.icon-lianou:before {
+  content: "\e678";
+}
+
+.icon-xianggu:before {
+  content: "\e679";
+}
+
+.icon-lajiao:before {
+  content: "\e67a";
+}
+
+.icon-huluobo:before {
+  content: "\e67b";
+}
+
+.icon-wosun:before {
+  content: "\e67c";
+}
+
 .icon-mubiao:before {
   content: "\e6ee";
 }
 
 .icon-duoyun:before {
   content: "\e63c";
-}
-
-.icon-tubiaozhizuomoban-:before {
-  content: "\e60c";
 }
 
 .icon-youxiang:before {
@@ -43,7 +131,7 @@
   content: "\e6a8";
 }
 
-.icon-color_aiqingniao:before {
+.icon-aiqingniao:before {
   content: "\e667";
 }
 
@@ -53,5 +141,9 @@
 
 .icon-weishengjin:before {
   content: "\e608";
+}
+
+.icon-xiezuo:before {
+  content: "\e6ef";
 }
 

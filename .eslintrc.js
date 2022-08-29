@@ -19,7 +19,7 @@ module.exports = {
       }
     ],
     'vue/multi-word-component-names': 0,
-    'no-unused-vars': 'error',
+    'no-unused-vars': 'warn',
     'no-var': 'error',
     'no-console': ['error', { allow: ['warn', 'error'] }]
   }

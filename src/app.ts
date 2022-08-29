@@ -1,9 +1,9 @@
 import { createApp } from 'vue'
 
-import 'uno.css'
 import './app.scss'
 import './assets/iconfont.css'
 import { useNutUIComponents } from './nutui'
+import 'uno.css'
 
 const App = createApp({
   // 入口组件不需要实现 render 方法，

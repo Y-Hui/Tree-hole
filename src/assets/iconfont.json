@@ -6,6 +6,167 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "13478583",
+      "name": "等级",
+      "font_class": "dengji",
+      "unicode": "e6e0",
+      "unicode_decimal": 59104
+    },
+    {
+      "icon_id": "14055570",
+      "name": "金币",
+      "font_class": "jinbi",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "23949453",
+      "name": "农田",
+      "font_class": "nongtian",
+      "unicode": "ec52",
+      "unicode_decimal": 60498
+    },
+    {
+      "icon_id": "5172385",
+      "name": "花菜",
+      "font_class": "huacai",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "5172386",
+      "name": "萝卜",
+      "font_class": "bailuobo",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "5172388",
+      "name": "南瓜",
+      "font_class": "nangua",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "5172389",
+      "name": "洋葱",
+      "font_class": "yangcong",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "5172390",
+      "name": "大蒜",
+      "font_class": "dasuan",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "5172391",
+      "name": "芹菜",
+      "font_class": "qincai",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "5172392",
+      "name": "豌豆",
+      "font_class": "wandou",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "5172393",
+      "name": "大葱",
+      "font_class": "dacong",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "5172394",
+      "name": "丝瓜",
+      "font_class": "sigua",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "5172395",
+      "name": "茄子",
+      "font_class": "qiezi",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "5172396",
+      "name": "土豆",
+      "font_class": "tudou",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "5172397",
+      "name": "番茄",
+      "font_class": "fanqie",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "5172398",
+      "name": "竹笋",
+      "font_class": "zhusun",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "5172399",
+      "name": "生姜",
+      "font_class": "shengjiang",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "5172400",
+      "name": "白菜",
+      "font_class": "baicai",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "5172401",
+      "name": "莲藕",
+      "font_class": "lianou",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "5172402",
+      "name": "香菇",
+      "font_class": "xianggu",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "5172403",
+      "name": "辣椒",
+      "font_class": "lajiao",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "5172404",
+      "name": "胡萝卜",
+      "font_class": "huluobo",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "5172405",
+      "name": "莴笋",
+      "font_class": "wosun",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
       "icon_id": "2252520",
       "name": "目标",
       "font_class": "mubiao",
@@ -18,13 +179,6 @@
       "font_class": "duoyun",
       "unicode": "e63c",
       "unicode_decimal": 58940
-    },
-    {
-      "icon_id": "3789493",
-      "name": "写作",
-      "font_class": "tubiaozhizuomoban-",
-      "unicode": "e60c",
-      "unicode_decimal": 58892
     },
     {
       "icon_id": "3860932",
@@ -57,7 +211,7 @@
     {
       "icon_id": "13151402",
       "name": "color_爱情鸟",
-      "font_class": "color_aiqingniao",
+      "font_class": "aiqingniao",
       "unicode": "e667",
       "unicode_decimal": 58983
     },
@@ -74,6 +228,13 @@
       "font_class": "weishengjin",
       "unicode": "e608",
       "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "31490984",
+      "name": "写作-copy",
+      "font_class": "xiezuo",
+      "unicode": "e6ef",
+      "unicode_decimal": 59119
     }
   ]
 }
